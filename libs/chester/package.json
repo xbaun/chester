@@ -1,0 +1,7 @@
+{
+  "name": "@chester/chester",
+  "version": "0.0.1",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
